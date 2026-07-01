@@ -1,0 +1,38 @@
+factor,nombre,F,p_valor,rango_medias
+F1_escuela_c,Tipo de gestión y financiamiento escolar,2057.13,0.0,1.927
+F1_estudiante,Actividades creativas fuera de la escuela,1105.33,0.0,1.679
+F2_escuela_c,Prácticas pedagógicas post-COVID,344.24,0.0,1.876
+F3_escuela_a,Escasez de recursos educativos,342.39,0.0,1.334
+F1_finanzas,Comprensión de conceptos financieros básicos,320.53,0.0,1.34
+F2_estudiante,Capital cultural y recursos del hogar,299.1,0.0,1.381
+F5_escuela_a,Autonomía de gestión escolar,220.59,0.0,1.009
+F6_escuela_c,Uso pedagógico avanzado de TIC,191.24,0.0,1.517
+F8_estudiante,Participación en clases de matemáticas,180.43,0.0,1.122
+F4_escuela_a,Escasez de personal docente,177.41,0.0,0.905
+F3_finanzas,Toma de decisiones financieras en riesgo,170.29,0.0,1.064
+F1_escuela_b,Retroalimentación docente formativa,164.9,0.0,0.857
+F2_finanzas,Aplicación de conocimiento financiero,125.9,0.0,0.879
+F3_escuela_c,Adaptaciones escolares durante COVID-19,96.42,0.0,0.961
+F5_escuela_c,Obstáculos para el aprendizaje matemático,90.41,0.0,0.675
+F2_otros,Trayectoria y nivel educativo del estudiante,66.09,0.0,0.702
+F6_finanzas,Planificación financiera a largo plazo,64.56,0.0,0.664
+F5_estudiante,Expectativas educativas y aspiraciones,55.91,0.0,0.672
+F4_estudiante,Estrategias de aprendizaje matemático,52.74,0.0,0.635
+F2_escuela_a,Uso de evaluaciones estandarizadas,50.82,0.0,0.797
+F4_escuela_b,Disponibilidad de TIC en el aula,42.16,0.0,0.745
+F7_finanzas,Experiencias financieras en el hogar,39.65,0.0,0.593
+F2_escuela_b,Liderazgo instruccional del director,38.57,0.0,0.536
+F5_escuela_b,Frecuencia de uso de recursos digitales,31.32,0.0,0.432
+F1_escuela_a,Uso de tecnología digital en la escuela,30.48,0.0,0.61
+F8_finanzas,Acceso y uso de servicios financieros,26.95,0.0,0.447
+F3_estudiante,Exposición a violencia y acoso escolar,24.73,0.0,0.523
+F3_escuela_b,Colaboración entre docentes,23.22,0.0,0.557
+F6_estudiante,Recursos digitales del hogar,16.78,0.0,0.351
+F4_finanzas,Gestión del dinero y ahorro personal,15.82,0.0,0.282
+F6_escuela_a,Actitudes inclusivas del director,15.43,0.0,0.356
+F6_escuela_b,Comunicación escuela-familia,11.47,0.0,0.387
+F4_escuela_c,Programas de bienestar estudiantil,9.66,0.0,0.316
+F5_finanzas,Comprensión de productos financieros complejos,9.22,0.0,0.259
+F9_estudiante,Ansiedad matemática,6.65,0.0,0.236
+F7_estudiante,Sentido de pertenencia escolar,6.6,0.0,0.206
+F5_otros,Tamaño del grupo-clase,0.91,0.4889,0.105

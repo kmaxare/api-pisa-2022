@@ -1,0 +1,32 @@
+factor,nombre,F,p_valor,rango_medias
+F1_escuela_c,Tipo de gestion y financiamiento escolar,5430.0,0.0,2.342
+F3_escuela_c,Practicas pedagogicas post-COVID,754.48,0.0,1.641
+F1_finanzas,Comprension de conceptos financieros basicos,516.8,0.0,1.304
+F1_escuela_b,Retroalimentacion docente formativa,446.78,0.0,1.302
+F1_estudiante,Capital cultural y recursos del hogar,372.97,0.0,1.246
+F5_escuela_c,Obstaculos percibidos y falta de apoyo externo,258.01,0.0,1.081
+F4_finanzas,Toma de decisiones financieras en riesgo,252.39,0.0,0.998
+F2_finanzas,Aplicacion de conocimiento financiero,154.52,0.0,0.779
+F8_estudiante,Nivel educativo de los padres,132.46,0.0,0.829
+F2_escuela_c,Adaptaciones escolares durante COVID-19,128.7,0.0,0.707
+F7_finanzas,Acceso y uso de servicios financieros,88.75,0.0,0.587
+F6_escuela_c,Uso pedagogico avanzado de TIC,84.93,0.0,0.708
+F3_escuela_b,Colaboracion entre docentes,74.93,0.0,0.587
+F6_finanzas,Planificacion financiera a largo plazo,64.78,0.0,0.565
+F6_estudiante,Participacion en clases de matematicas,44.39,0.0,0.479
+F2_escuela_b,Liderazgo instruccional del director,38.46,0.0,0.482
+F1_otros,Trayectoria y nivel educativo del estudiante,37.53,0.0,0.458
+F2_estudiante,Estrategias de aprendizaje matematico,34.72,0.0,0.454
+F4_escuela_c,Programas de bienestar estudiantil,34.05,0.0,0.454
+F4_escuela_b,Disponibilidad de TIC en el aula,30.01,0.0,0.444
+F8_finanzas,Experiencias financieras en el hogar,27.4,0.0,0.356
+F3_estudiante,Recursos digitales del hogar,17.71,0.0,0.263
+F5_estudiante,Exposicion a violencia e inseguridad escolar,13.59,0.0,0.285
+F10_estudiante,Participacion en actividades matematicas extracurriculares,11.84,0.0,0.237
+F5_finanzas,Comprension de productos financieros complejos,10.34,0.0,0.226
+F6_escuela_b,Comunicacion escuela-familia,9.08,0.0,0.268
+F5_escuela_b,Frecuencia de uso de recursos digitales,8.24,0.0,0.225
+F3_finanzas,Gestion del dinero y ahorro personal,6.96,0.0001,0.184
+F7_estudiante,Relaciones con companeros y pertenencia social,4.87,0.0022,0.151
+F9_estudiante,Autoconcepto matematico,4.4,0.0042,0.167
+F4_estudiante,Sentido de pertenencia escolar,0.03,0.9945,0.011
